@@ -35,7 +35,7 @@ public class GitColaborativo {
 		
 		else if((km > 1000) && (vip == 2))
 		System.out.println("Total no vip" + (p2 * 1.21));
-		
+		//ponemos el ultimo paso
 		else if((km > 1000) && (vip == 1))
 		System.out.println("Total vip: " + (p2 * 0.95 ) * 1.21 );
 			
