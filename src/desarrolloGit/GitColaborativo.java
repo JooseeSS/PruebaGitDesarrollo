@@ -6,7 +6,6 @@ public class GitColaborativo {
 	public static void main(String[] args) {
 		var sc = new Scanner(System.in);
 		
-		var sc = new Scanner(System.in);
 		double descvip = 0.95;
 		double Km;
 		
